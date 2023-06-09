@@ -11,6 +11,6 @@ Saya, membuat tampilan login untuk  “Toko Tas”. Terlihat pada tampilan login
 
 Berikut, hasil tampilan sebelum dan sesudah mengisi field:
 
-![Output](gambar/login1.png)
+![Output](gambar/emulator1.png)
 
-![Output](gambar/login2.png)
+![Output](gambar/emulator2.png)
